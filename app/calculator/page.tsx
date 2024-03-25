@@ -71,7 +71,7 @@ export default function calculator() {
 
     const Cydr = 0.1865;
     const Cldr = 0.02166;
-    const Cndr = -0.0;
+    const Cndr = -0.08337;
 
     const g = 9.81; // Accélération gravitationnelle, m/s²
     const q = 0.5 * rho * U0 ** 2; // Pression dynamique
